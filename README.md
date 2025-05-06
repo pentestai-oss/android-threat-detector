@@ -62,7 +62,7 @@ Ne jamais utiliser ces techniques sans autorisation légale.
 
 📌 Auteur
 
-🔐 pentestai470
+🔐 pentestai-oss
 Test d'intrusion Android | IA appliquée à la cybersécurité | Développeur d'outils et d'exploits
 
 📜 Licence
