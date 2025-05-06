@@ -32,3 +32,39 @@ Outil d’analyse statique et dynamique pour repérer les mécanismes de sécuri
 ├── screenshots/          # Captures d'écran de l'outil
 ├── requirements.txt
 └── README.md
+
+🧠 Technologies utilisées
+Python
+
+scikit-learn, TensorFlow, PyTorch
+
+androguard, frida, apktool
+
+MITMProxy, Burp Suite
+
+Pandas, Seaborn, Matplotlib
+
+⚙️ Installation
+
+git clone https://github.com/pentestai470/android-threat-detector.git
+cd android-threat-detector
+pip install -r requirements.txt --break-system-packages
+
+🧪 Exemple d'utilisation
+
+python analysis/apk_static_analysis.py -f app.apk
+python rasp/rasp_bypass.py --mode aggressive
+
+🛑 Avertissement
+
+Ce projet est à but éducatif et de recherche uniquement.
+Ne jamais utiliser ces techniques sans autorisation légale.
+
+📌 Auteur
+
+🔐 pentestai470
+Test d'intrusion Android | IA appliquée à la cybersécurité | Développeur d'outils et d'exploits
+
+📜 Licence
+Ce projet est sous licence MIT 
+
